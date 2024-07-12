@@ -1,7 +1,7 @@
 import os
 apath = "C:\\Users\\tr\\Desktop\\python2\\dosyaislemleri\\dosyalar\\yeni.txt"
 rpath = "dosyaislemleri\\dosyalar\\yeni.txt"
-
+#sdmöfnsdömnsdm
 # # if os.path.exists(apath):
 # #     print("evet dosya mevcut")
 # # else:
